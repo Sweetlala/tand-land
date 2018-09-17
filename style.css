@@ -1,0 +1,225 @@
+body{
+    background-image: url(http://www.cliniclands.se/img/bg-body.png);
+}
+/*------NAVBAR--------*/
+.denna{
+    background-color: rgba(108, 188, 235, 0.5);
+    
+    
+    width: 100%;
+}
+.teth{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    margin-right: 25px; 
+}
+/*---------*/
+.pra p{
+    margin-right:25px ;
+}
+ 
+/*-------------*/
+.top p{
+    display: inline-block;
+    margin: 5px;
+    margin-left: 35px;
+    padding: 5px;
+}
+/*-----serch icon----------*/
+.ser{
+    width: 45px;
+    height: 45px;
+
+    
+}
+#se1{
+    background-color: rgb(140, 198, 248);
+    padding: 10px;
+    border-radius:5px;
+    margin-top: 30px;
+    
+    margin:5px 100px 5px 100px;
+
+}
+ #but{
+    margin-left: 200px;
+ }
+ .brevid{
+     float: right;
+     width: 80%;
+     margin: -33px;
+
+ }
+ /*-----------icon-pargraf------------------*/
+ .te{
+     float: left;
+ }
+ 
+
+ 
+ #about .card .top{
+    float: left;
+}
+/*--------stylingbink-------*/
+.bink{
+    background-color: rgba(108, 188, 235);
+    padding: 2px;;
+    margin: 0 auto;
+    border:rgb(31, 37, 39)  3px;
+    height: 50px;
+    background-attachment: fixed;
+    justify-content:center;
+    
+}
+.bink1{
+    background-color: rgb(209, 135, 150);
+}
+ /*------------------------------*/
+ @media screen and (max-width: 600px) {
+     form {
+         display: none;
+     }
+ }
+ /*----------------------------*/
+ #bild{background-image: url(img/cli.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ /*----------pruducter-----------*/
+ .prudokter{
+     background-color:rgba(108, 188, 235);
+     color: aliceblue;
+     font-size: 1em; 
+     height: 50px;
+     max-width: 100%;
+ }
+ .p1{
+     text-align: center;
+    }
+ #text{
+     background-color: aliceblue;
+     height: 150px;
+     text-align: center;
+     margin: 0px;
+     padding:30px;
+ }
+ /*-------background row------*/
+ #col{
+     background-color: rgb(154, 154, 156);
+     
+ }
+ .img{
+     border-radius:70px;
+     height: 250px;
+     width: 250px;
+     padding: 10px; 
+     margin: 50px 50px;
+ }
+ #om{
+     text-align: center;
+     color:#05bbd3;
+     font-family: 'Antartida W04',Arial,sans-serif;
+     padding: 20px;
+    }
+ 
+ 
+ 
+/*----------farg-----------*/
+#farge{
+    background-color: black;
+    opacity: 0.5;
+    color: #05bbd3;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+}
+#fo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em ;
+    font-weight: bold;
+    color: #05bbd3;
+    background-color: black;
+    opacity: 0.5;
+}
+/*-------wh----------*/
+#wh{
+    background-color: white;
+}
+.parr{
+    text-align: center;
+    padding: 0px;
+    margin: 100px 0px 0px 0px;
+}
+/*----botton---------*/
+.btn-col{
+    background-color: #5a308d;
+    color: #fff;
+    border-color : black;
+}
+.btn-col :hover, .btn-col:active{
+    background-color:#ed7cae;
+    color:white;
+}
+.move{
+    margin: 30px 0px 20px 0px;
+}
+/*----------h----------*/
+.p1{
+    text-align: center;
+    font-family: 'Antartida W04',Arial,sans-serif;
+    color: #05bbd3;
+    font-size: 16px;
+}
+#team{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    
+}
+#ifr{
+    margin: 10px 50px 10px;
+}
+/*---------foto-------------*/
+.foto{
+    margin: 25px;
+    padding: 50px 0 0 0;
+}
+/*-------footer--*/
+#footer{
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    padding-top: 0px;
+    margin: 0px 200px 45px;
+}
+  /*-------sos------*/
+  .sos{
+      padding: 5px;
+      margin: 5px;
+      width: 60px;
+      height: 80px;
+      display: block;
+      margin-left: 155px;
+  }
+  .inline{
+      display: inline-block;
+      padding-top: 50px;
+      padding: 20px;
+  }
+  
+  
+      
+      
+  
+  
